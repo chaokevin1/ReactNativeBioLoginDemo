@@ -8,7 +8,12 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ```sh
 npx @react-native-community/cli@latest init BiomLoginApp
 ```
-## Step 2: Launch iOS 
+## Step 2:  iOS pod install
+```sh
+ npx pod-install
+```
+ 
+## Step 3: Launch iOS 
 ```sh
 npx react-native run-ios
 ```
