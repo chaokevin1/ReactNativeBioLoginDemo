@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
-> **Note**:
+> **Note**:  If you would like to create a new project, go to step 1; otherwise, go to step 2.  Enjoy it!! Happy coding 
 > 
 ## Step 1: CD project folder
 ```sh
